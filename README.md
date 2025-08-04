@@ -69,6 +69,6 @@ The backend runs on `http://localhost:8000` and the frontend on `http://localhos
 MIT License
 
 
-Ollama need to download in the system 
+You need to install ollama in your device.
 
-https://ollama.com/download
+Ollama download link: https://ollama.com/download
