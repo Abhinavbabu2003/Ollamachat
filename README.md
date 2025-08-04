@@ -67,3 +67,8 @@ The backend runs on `http://localhost:8000` and the frontend on `http://localhos
 ## License
 
 MIT License
+
+
+Ollama need to download in the system 
+
+https://ollama.com/download
